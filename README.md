@@ -2,7 +2,7 @@
 Links to a few of the projects I've done
 
 This one is a Dice roller that can create named presets with modifiers. It was created with tabletop games in mind.
-<img width="790" height="250" width="200" alt="image" src="https://github.com/user-attachments/assets/4ab18e6e-f083-4c5d-a8dc-bbfe10693000" />
+<img width="790" height="250" width="1" alt="image" src="https://github.com/user-attachments/assets/4ab18e6e-f083-4c5d-a8dc-bbfe10693000" />
 
 https://github.com/PetrosAndarige/Dice-Roller
 
