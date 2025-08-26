@@ -1,8 +1,10 @@
-# Links
-Links to a few of the projects I've done
+# Petros Andarige Project Links
+
+Hi! I'm Peter. A recent graduate of Concordia University Texas. During my time being a high-achieving college student working with Java and Python, I received a 4-Year Excellence Scholarship as well as Dean’s list Placement for all of college. I also have some experience working with sales as well as working in a capstone project centered around software development. During that time I developed solid collaboration, conflict resolution, and general group work skills. I am also able to manage tension between peers well while performing in team exercises and have a strong desire to contribute and carry my own weight when put into a group setting.
+Here are a few Links to a few of the projects I've done.
 
 This one is a Dice roller that can create named presets with modifiers. It was created with tabletop games in mind.
-<img width="790" height="250" alt="image" src="https://github.com/user-attachments/assets/4ab18e6e-f083-4c5d-a8dc-bbfe10693000" />
+<img width="590" height="250" alt="image" src="https://github.com/user-attachments/assets/4ab18e6e-f083-4c5d-a8dc-bbfe10693000" />
 
 https://github.com/PetrosAndarige/Dice-Roller
 
